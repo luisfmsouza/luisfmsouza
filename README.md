@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Luís from Brazil (🇧🇷) currently living in The Netherlands (🇳🇱). I've been working as Frontend Engineer since 2010, currently I'm Engineering Manager [@Vio.com](https://github.com/findhotel).
+I am Luís from Brazil 🇧🇷 currently living in Spain 🇪🇸 . I've been working as Frontend Engineer since 2010, currently I'm Staff Engineer at [@Vio.com](https://github.com/viodotcom).
 
 📫 Want to chat? Reach out to me on [LinkedIn](https://www.linkedin.com/in/luisfmsouza/).
