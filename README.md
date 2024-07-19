@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Luís from Brazil 🇧🇷 currently living in Spain 🇪🇸 . I've been working as Frontend Engineer since 2010, currently I'm Staff Engineer at [@Vio.com](https://github.com/viodotcom).
+I am Luís from Brazil (🇧🇷) currently living in the sunny Valencia, Spain (🇪🇸). 
+
+I've been working as Frontend Engineer since 2010, currently I'm Staff Engineer at [@Vio.com](https://github.com/viodotcom).
 
 📫 Want to chat? Reach out to me on [LinkedIn](https://www.linkedin.com/in/luisfmsouza/).
